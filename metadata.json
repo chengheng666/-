@@ -1,0 +1,6 @@
+{
+  "name": "高铁车站广播系统",
+  "description": "高度模拟高铁车站真实播音环境的智能广播控制台，支持关键字切片拼接播放、录音词库管理、车次调度大屏、一键自动播报与多场景播报模板。",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
